@@ -1,0 +1,17 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "E-commerce web scrapper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak19ranchi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22",
+    "puppeteer": "^20.1.2"
+  }
+}
